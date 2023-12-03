@@ -1,0 +1,14 @@
+C:\Users\gr631_koavl\RiderProjects\practice1.4\program5\bin\Debug\net7.0\program5.exe
+C:\Users\gr631_koavl\RiderProjects\practice1.4\program5\bin\Debug\net7.0\program5.deps.json
+C:\Users\gr631_koavl\RiderProjects\practice1.4\program5\bin\Debug\net7.0\program5.runtimeconfig.json
+C:\Users\gr631_koavl\RiderProjects\practice1.4\program5\bin\Debug\net7.0\program5.dll
+C:\Users\gr631_koavl\RiderProjects\practice1.4\program5\bin\Debug\net7.0\program5.pdb
+C:\Users\gr631_koavl\RiderProjects\practice1.4\program5\obj\Debug\net7.0\program5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr631_koavl\RiderProjects\practice1.4\program5\obj\Debug\net7.0\program5.AssemblyInfoInputs.cache
+C:\Users\gr631_koavl\RiderProjects\practice1.4\program5\obj\Debug\net7.0\program5.AssemblyInfo.cs
+C:\Users\gr631_koavl\RiderProjects\practice1.4\program5\obj\Debug\net7.0\program5.csproj.CoreCompileInputs.cache
+C:\Users\gr631_koavl\RiderProjects\practice1.4\program5\obj\Debug\net7.0\program5.dll
+C:\Users\gr631_koavl\RiderProjects\practice1.4\program5\obj\Debug\net7.0\refint\program5.dll
+C:\Users\gr631_koavl\RiderProjects\practice1.4\program5\obj\Debug\net7.0\program5.pdb
+C:\Users\gr631_koavl\RiderProjects\practice1.4\program5\obj\Debug\net7.0\program5.genruntimeconfig.cache
+C:\Users\gr631_koavl\RiderProjects\practice1.4\program5\obj\Debug\net7.0\ref\program5.dll
